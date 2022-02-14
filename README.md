@@ -25,7 +25,7 @@ https://damp-fjord-78092.herokuapp.com/
 
 ## License
 
-ISC
+MIT
 
 ## Author
 
